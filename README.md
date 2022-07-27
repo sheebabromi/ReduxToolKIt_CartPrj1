@@ -1,3 +1,9 @@
+changed the version:
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"react-redux": "^8.0.2",
+"react-scripts": "5.0.1",
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
